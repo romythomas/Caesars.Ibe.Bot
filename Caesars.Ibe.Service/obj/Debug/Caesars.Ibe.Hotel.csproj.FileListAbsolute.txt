@@ -1,0 +1,14 @@
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Hotel\bin\Debug\Caesars.Ibe.Hotel.dll.config
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Hotel\bin\Debug\Caesars.Ibe.Hotel.dll
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Hotel\bin\Debug\Caesars.Ibe.Hotel.pdb
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Hotel\bin\Debug\Caesars.Ibe.Model.dll
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Hotel\bin\Debug\Caesars.Ibe.Util.dll
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Hotel\bin\Debug\Newtonsoft.Json.dll
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Hotel\bin\Debug\System.Net.Http.Formatting.dll
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Hotel\bin\Debug\Caesars.Ibe.Model.pdb
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Hotel\bin\Debug\Caesars.Ibe.Util.pdb
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Hotel\bin\Debug\Newtonsoft.Json.xml
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Hotel\bin\Debug\System.Net.Http.Formatting.xml
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Hotel\obj\Debug\Caesars.Ibe.Hotel.csprojResolveAssemblyReference.cache
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Hotel\obj\Debug\Caesars.Ibe.Hotel.dll
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Hotel\obj\Debug\Caesars.Ibe.Hotel.pdb

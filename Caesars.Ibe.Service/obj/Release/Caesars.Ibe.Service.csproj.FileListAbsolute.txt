@@ -1,0 +1,14 @@
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Service\bin\Release\Caesars.Ibe.Service.dll.config
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Service\bin\Release\Caesars.Ibe.Service.dll
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Service\bin\Release\Caesars.Ibe.Service.pdb
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Service\bin\Release\Caesars.Ibe.Model.dll
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Service\bin\Release\Caesars.Ibe.Util.dll
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Service\bin\Release\Newtonsoft.Json.dll
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Service\bin\Release\System.Net.Http.Formatting.dll
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Service\bin\Release\Caesars.Ibe.Model.pdb
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Service\bin\Release\Caesars.Ibe.Util.pdb
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Service\bin\Release\Newtonsoft.Json.xml
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Service\bin\Release\System.Net.Http.Formatting.xml
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Service\obj\Release\Caesars.Ibe.Service.csprojResolveAssemblyReference.cache
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Service\obj\Release\Caesars.Ibe.Service.dll
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Service\obj\Release\Caesars.Ibe.Service.pdb

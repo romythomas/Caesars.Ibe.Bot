@@ -1,0 +1,10 @@
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Util\bin\Debug\Caesars.Ibe.Util.dll.config
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Util\bin\Debug\Caesars.Ibe.Util.dll
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Util\bin\Debug\Caesars.Ibe.Util.pdb
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Util\bin\Debug\Newtonsoft.Json.dll
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Util\bin\Debug\System.Net.Http.Formatting.dll
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Util\bin\Debug\Newtonsoft.Json.xml
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Util\bin\Debug\System.Net.Http.Formatting.xml
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Util\obj\Debug\Caesars.Ibe.Util.dll
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Util\obj\Debug\Caesars.Ibe.Util.pdb
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Util\obj\Debug\Caesars.Ibe.Util.csprojResolveAssemblyReference.cache

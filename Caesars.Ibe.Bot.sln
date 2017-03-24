@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caesars.Ibe.Bot", "Caesars.Ibe.Bot\Caesars.Ibe.Bot.csproj", "{A8BA1066-5695-4D71-ABB4-65E5A5E0C3D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caesars.Ibe.Service", "Caesars.Ibe.Service\Caesars.Ibe.Service.csproj", "{129EFEA0-9E28-4B10-9BA8-ABEEF08EE95E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caesars.Ibe.Model", "Caesars.Ibe.Model\Caesars.Ibe.Model.csproj", "{48BF168D-E640-4DD7-B9C0-DC0779E477E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caesars.Ibe.Util", "Caesars.Ibe.Util\Caesars.Ibe.Util.csproj", "{141AEEF9-90BC-4A75-91CC-FF2F85B74F5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8BA1066-5695-4D71-ABB4-65E5A5E0C3D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8BA1066-5695-4D71-ABB4-65E5A5E0C3D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8BA1066-5695-4D71-ABB4-65E5A5E0C3D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8BA1066-5695-4D71-ABB4-65E5A5E0C3D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{129EFEA0-9E28-4B10-9BA8-ABEEF08EE95E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{129EFEA0-9E28-4B10-9BA8-ABEEF08EE95E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{129EFEA0-9E28-4B10-9BA8-ABEEF08EE95E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{129EFEA0-9E28-4B10-9BA8-ABEEF08EE95E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48BF168D-E640-4DD7-B9C0-DC0779E477E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48BF168D-E640-4DD7-B9C0-DC0779E477E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48BF168D-E640-4DD7-B9C0-DC0779E477E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48BF168D-E640-4DD7-B9C0-DC0779E477E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{141AEEF9-90BC-4A75-91CC-FF2F85B74F5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{141AEEF9-90BC-4A75-91CC-FF2F85B74F5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{141AEEF9-90BC-4A75-91CC-FF2F85B74F5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{141AEEF9-90BC-4A75-91CC-FF2F85B74F5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

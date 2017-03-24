@@ -1,0 +1,9 @@
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Util\bin\Release\Caesars.Ibe.Util.dll.config
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Util\bin\Release\Caesars.Ibe.Util.dll
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Util\bin\Release\Caesars.Ibe.Util.pdb
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Util\bin\Release\Newtonsoft.Json.dll
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Util\bin\Release\System.Net.Http.Formatting.dll
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Util\bin\Release\Newtonsoft.Json.xml
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Util\bin\Release\System.Net.Http.Formatting.xml
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Util\obj\Release\Caesars.Ibe.Util.dll
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Util\obj\Release\Caesars.Ibe.Util.pdb

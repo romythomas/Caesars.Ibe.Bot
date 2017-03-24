@@ -1,0 +1,11 @@
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Model\bin\Debug\Caesars.Ibe.Model.dll
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Model\bin\Debug\Caesars.Ibe.Model.pdb
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Model\bin\Debug\Caesars.Ibe.Util.dll
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Model\bin\Debug\Newtonsoft.Json.dll
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Model\bin\Debug\System.Net.Http.Formatting.dll
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Model\bin\Debug\Caesars.Ibe.Util.pdb
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Model\bin\Debug\Newtonsoft.Json.xml
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Model\bin\Debug\System.Net.Http.Formatting.xml
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Model\obj\Debug\Caesars.Ibe.Model.csprojResolveAssemblyReference.cache
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Model\obj\Debug\Caesars.Ibe.Model.dll
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Model\obj\Debug\Caesars.Ibe.Model.pdb

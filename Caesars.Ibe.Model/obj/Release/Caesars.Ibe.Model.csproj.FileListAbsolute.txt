@@ -1,0 +1,11 @@
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Model\bin\Release\Caesars.Ibe.Model.dll
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Model\bin\Release\Caesars.Ibe.Model.pdb
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Model\bin\Release\Caesars.Ibe.Util.dll
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Model\bin\Release\Newtonsoft.Json.dll
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Model\bin\Release\System.Net.Http.Formatting.dll
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Model\bin\Release\Caesars.Ibe.Util.pdb
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Model\bin\Release\Newtonsoft.Json.xml
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Model\bin\Release\System.Net.Http.Formatting.xml
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Model\obj\Release\Caesars.Ibe.Model.csprojResolveAssemblyReference.cache
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Model\obj\Release\Caesars.Ibe.Model.dll
+C:\Romy\Code\Bot\Caesars.Ibe.Bot\Caesars.Ibe.Model\obj\Release\Caesars.Ibe.Model.pdb
